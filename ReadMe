@@ -1,0 +1,7 @@
+The original of this file was created by the user Shonosh at Blenderartists.org. https://blenderartists.org/t/uv-islands-to-hard-edges/643935
+
+I have just changed it slightly so it works with Blender 2.80.
+
+I updated the version number, removed a discrion that was causing an error, and added a check to see if any thing was selected.
+
+The instalation is as any other blender add-on.
